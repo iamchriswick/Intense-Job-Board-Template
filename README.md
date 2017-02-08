@@ -2,6 +2,12 @@
 
 A basic website using **HTML**, **CSS** and **Javascript**.
 
+## Get Started
+
+1. Run `$ npm install`
+2. Run `$ gulp serve`
+
+
 ## Recourses
 ### Build Tools
 * NPM - [https://www.npmjs.com/](https://www.npmjs.com/)

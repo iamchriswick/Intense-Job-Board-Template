@@ -1,6 +1,6 @@
 # Intense Job Board Template
 
-A basic website using **HTML**, **CSS** and **Javascript**.
+A basic template using **HTML**, **CSS** and **Javascript**.
 
 ## Get Started
 

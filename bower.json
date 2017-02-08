@@ -1,0 +1,20 @@
+{
+  "name": "HTML Starter Kit",
+  "description": "<h1>HTML website build with Gulp</h1>",
+  "main": "gulpfile.babel.js",
+  "authors": [
+    "Blockshot"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "juice": "^1.0.1"
+  }
+}

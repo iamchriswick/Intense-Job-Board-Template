@@ -1,5 +1,7 @@
 # Intense Job Board Template
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/iamchriswick/Intense-Job-Board-Template.svg)](https://greenkeeper.io/)
+
 A basic website using **HTML**, **CSS** and **Javascript**.
 
 ## Get Started
